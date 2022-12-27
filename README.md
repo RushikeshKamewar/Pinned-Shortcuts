@@ -1,2 +1,2 @@
-# Pinned-Shortcuts
+# Pinned-Extension
 Extension for pinned shortcuts app
